@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060200828998",
+    "project_id": "beam-f3fe6",
+    "storage_bucket": "beam-f3fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060200828998:android:bb38ce940d9f84d34afa47",
+        "android_client_info": {
+          "package_name": "com.sravan.beam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060200828998-96vcn3gub41s4njsg2varmmbp1cirllh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccyaV3NqdCT0HiKAx_1YsfFaMaRn4aUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060200828998-96vcn3gub41s4njsg2varmmbp1cirllh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
