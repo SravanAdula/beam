@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register_label">Register</string>
+    <string name="hint_email">Enter Your Email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_ConfirmPassword">Confirm Password</string>
+    <string name="hint_name">Enter Your Name</string>
+    <string name="login_label">Login</string>
+    <string name="first_frag_text">Hello first frag</string>
+    <string name="hint_dob">dd/mm/yyyy</string>
+    <string name="hint_gender">Enter gender</string>
+</resources>
